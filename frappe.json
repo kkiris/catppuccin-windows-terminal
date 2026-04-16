@@ -14,14 +14,14 @@
   "blue": "#8CAAEE",
   "purple": "#F4B8E4",
   "cyan": "#81C8BE",
-  "white": "#B5BFE2",
+  "white": "#A5ADCE",
 
   "brightBlack": "#626880",
-  "brightRed": "#E78284",
-  "brightGreen": "#A6D189",
-  "brightYellow": "#E5C890",
-  "brightBlue": "#8CAAEE",
-  "brightPurple": "#F4B8E4",
-  "brightCyan": "#81C8BE",
-  "brightWhite": "#A5ADCE"
+  "brightRed": "#E67172",
+  "brightGreen": "#8EC772",
+  "brightYellow": "#D9BA73",
+  "brightBlue": "#7B9EF0",
+  "brightPurple": "#F2A4DB",
+  "brightCyan": "#5ABFB5",
+  "brightWhite": "#B5BFE2"
 }
